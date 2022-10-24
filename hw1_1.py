@@ -325,10 +325,10 @@ def main():
     # sum_vec()
     # time_vec()
     # activate_horner()
-    init_bubble()
-    init_quicksort()
-    init_timsort()
-    # matrix_multiplication()
+    # init_bubble()
+    # init_quicksort()
+    # init_timsort()
+    matrix_multiplication()
     plt.legend()
     
 
